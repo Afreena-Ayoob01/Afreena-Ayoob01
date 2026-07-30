@@ -29,11 +29,6 @@ Django-based movie web application with user authentication, movie management, f
 
 [Repository](https://github.com/Afreena-Ayoob01/streambyte)
 
-### E-Commerce Web Application
-Django-based e-commerce application developed with a focus on product management, user authentication, database operations, and core shopping functionality.
-
-**Stack:** Python, Django
-
 ## Current Focus
 
 - Django application development
